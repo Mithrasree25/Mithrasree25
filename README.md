@@ -10,7 +10,11 @@
 💬 Ask me about: Java, Python, Web development, Algorithm
 
 Find me on 🔗 — Socials & Contact
+
+
 LINKEDIN:www.linkedin.com/in/mithrasree-mithra-3181512b6
 
 💻Tech Stack
+
+
 HTML5 CSS3 JavaScript React Node.js Java Python C MongoDB MySQL Canva 
